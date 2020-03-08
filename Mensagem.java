@@ -17,7 +17,5 @@ public class Mensagem {
 		this.bx = bx;
 		this.by = by;
 	}
-	
-
 
 }

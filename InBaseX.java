@@ -7,6 +7,5 @@ public class InBaseX {
 		super();
 		this.kekekekekek = kekekekekek;
 	}
-	
 
 }

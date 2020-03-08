@@ -15,6 +15,5 @@ public class BaseX {
 		this.listInBaseX = listInBaseX;
 		this.unitializedList = unitializedList;
 	}
-	
 
 }

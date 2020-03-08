@@ -7,6 +7,5 @@ public class BaseY {
 		super();
 		this.pieceofshit = pieceofshit;
 	}
-	
 
 }
